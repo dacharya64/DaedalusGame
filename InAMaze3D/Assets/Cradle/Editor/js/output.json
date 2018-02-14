@@ -1,0 +1,158 @@
+{
+    "console": [],
+    "result": {
+        "passages": [
+            {
+                "Body": "This corner of the labyrinth is the safest place you could find to keep you and your son sheltered. \n\nIt is the only part of the maze that opens up to the outside world. A sheer cliff face drops off and below, you can hear the ocean waves crash against unforgiving stone. Birds freewheel through the sea breeze, mocking you in their flight. \n\nFor years you and your son have been trapped here, scavenging what you could from within these walls to survive. For years your mind has been fixated on the thought of freeom, of inventing a way out of this place. \n\nToday is the day. Your invention is almost ready. You'll soon be rid of this place forever. You just need to take one last journey into the maze, collecting feathers for what will be your last invention. \n\n[[Onwards]]\n",
+                "Name": "Home",
+                "Pid": "1",
+                "Tags": ""
+            },
+            {
+                "Body": "Double-click this passage to edit it.",
+                "Name": "Onwards",
+                "Pid": "2",
+                "Tags": ""
+            },
+            {
+                "Body": "This is like no ordinary maze. There is no way in and there is no way out. Those consigned to walk its walls will do so for all of eternity.\n\n--\n\nYou find a feather here, nestled in the crack between two stones.\n\n[[Onwards]]\n\n",
+                "Name": "Feather 1",
+                "Pid": "3",
+                "Tags": ""
+            },
+            {
+                "Body": "You try to think of what Icarus must be going through, living every moment of his life with only fear and silence. What little does he remember of the outside world?\n\n--\n\nA feather, damp but usable, clings to one of the loose stones here. \n\n[[Onwards]]",
+                "Name": "Feather 2",
+                "Pid": "4",
+                "Tags": ""
+            },
+            {
+                "Body": "How did you end up in this place? You try to trace back the chain of events, but every thread seems tangled, every piece disjointed. \n\nThe real madness, you think, was building this maze in the first place. \n\n--\n\nA feather drifts down from above your head. You snatch it from the air. \n\n[[Onwards]]",
+                "Name": "Feather 3",
+                "Pid": "5",
+                "Tags": ""
+            },
+            {
+                "Body": "Has it been months? Years? You have had little to reference but the length of your hair and the hollow of your stomach. \n\nLittle Icarus had tried to keep track at first. But as days drifted into weeks, he began to slump under the futility of such a task.\n\n--\n\nA feather, pristine, lies on the floor before you. You carefully tuck it away. \n\n[[Onwards]]",
+                "Name": "Feather 4",
+                "Pid": "6",
+                "Tags": ""
+            },
+            {
+                "Body": "You feel the halting of your breath, the way each gasp catches in your throat. \n\nA thought tries to work its way to conscious in your mind, something you try to bury back inside of you. The fear that even escaping from this maze will not mean freedom. The longing for that other means of release.\n\n--\n\nA feather sits here in the grime. You take it and hurry on. \n\n[[Onwards]]\n\n",
+                "Name": "Feather 5",
+                "Pid": "7",
+                "Tags": ""
+            },
+            {
+                "Body": "You used to think yourself a genius, that your mind could provide you with whatever you desired. \n\nNow, your desires are few. A warm bed. The ability to laugh with your child.\n\n--\n\nYou find a feather here, in the cracks between two stones. \n\n[[Onwards]]",
+                "Name": "Feather 6",
+                "Pid": "8",
+                "Tags": ""
+            },
+            {
+                "Body": "A small stone box, unadorned, sits here, a question engraved into its top. \n\nThree buttons decorate its sides. You reason that pressing one of the buttons will open the box. \n\nThe lid reads, ''Why do you want freedom?''\n\n[[Press \"I want an end to my fear\" |answer2]]\n[[Press \"I want revenge\" |answer2]]\n[[Press \"I want my son to know freedom\" |answer2]]",
+                "Name": "Feather 10",
+                "Pid": "9",
+                "Tags": ""
+            },
+            {
+                "Body": "A small stone box sits here, shining under the light of your lantern. You can see that its lid is marked with a question. \n\nThree buttons decorate its sides. You reason that pressing one of the buttons will open the box. \n\nThe lid reads, ''What keeps you here?''\n\n[[Press \"My own inability keeps me here\" |answer1]]\n[[Press \"A tyrant-king keeps me here\" |answer1]]\n[[Press \"You keep me here\" |answer1]]",
+                "Name": "Feather 9",
+                "Pid": "10",
+                "Tags": ""
+            },
+            {
+                "Body": "A small stone box, its corners crumbling, sits here. A question is engraved into its lid. \n\nThree buttons decorate its sides. You reason that pressing one of the buttons will open the box. \n\nThe lid reads, ''Why are you here?''\n\n[[Press \"I was trapped here by my own hubris\"|answer1]]\n[[Press \"I was imprisoned here by a cruel tyrant\"|answer1]]\n[[Press \"I am not here. Walls cannot hold my mind\"|answer1]]",
+                "Name": "Feather 8",
+                "Pid": "11",
+                "Tags": ""
+            },
+            {
+                "Body": "A small stone box covered with lichen sits here, a question engraved into its top. \n\nThree buttons decorate its sides. You reason that pressing one of the buttons will open the box. \n\nThe lid reads, ''Who are you?''\n\n[[Press \"I am Daedalus, inventor and father\"|answer1]]\n[[Press \"I am a prisoner within these walls\"|answer1]]\n[[Press \"I am nobody\"|answer1]]",
+                "Name": "Feather 7",
+                "Pid": "12",
+                "Tags": ""
+            },
+            {
+                "Body": "You hurry back to the edge of the maze, to your son Icarus. \n\n--\n\nYoung Icarus looks up as you approach, his eyes large and clear. He's long since learned to avoid making even the smallest of sounds. \n\nYou gather together what you can of your materials and tools holding the wooden frames you've made aloft. Your inventor's hands work over the frames, applying each feather with care and sealing each in place with a drop of wax. \n\nSoon the [[wings are complete...]]",
+                "Name": "home",
+                "Pid": "13",
+                "Tags": ""
+            },
+            {
+                "Body": "...but of course there's only enough material to make one set of wings. \n\nFor only one of you to leave this place. \n\n[[Of course you knew that all along... |choice]]\n[[And yet you've scarcely wanted to believe... |choice]]\n",
+                "Name": "wings are complete...",
+                "Pid": "14",
+                "Tags": ""
+            },
+            {
+                "Body": "Icarus watches as you strap the wings to your arms. He is still. \n\n\"I have to go now, Icarus,\" you say. \"Icarus--\" \n\n[[\"Stay safe.\" | final2]]\n[[\"I'm sorry.\" | final2]]\n[[\"I had no choice.\" | final2]]\n",
+                "Name": "Take the wings and fly away.",
+                "Pid": "15",
+                "Tags": ""
+            },
+            {
+                "Body": "You strap the wings to Icarus, help to tighten the harness to fit his small body. \n\n\"Stay low, and stay quiet,\" you tell him. \"And...\" \n\n[[\"Farewell.\" | final1]]\n[[\"Remember me.\" | final1]]\n[[\"Be free.\" | final1]]",
+                "Name": "Give the wings to Icarus and let him fly away.",
+                "Pid": "16",
+                "Tags": ""
+            },
+            {
+                "Body": "He jumps. \n\nFor a second he falls, but then the next second his large wings catch the sea breeze and bear him aloft, over the Aegean. \n\nHis small body is haloed in the light of the sun. \n\n\n[[THE END]]",
+                "Name": " final1",
+                "Pid": "17",
+                "Tags": ""
+            },
+            {
+                "Body": "DAEDALUS\n\nCreated by Devi Acharya for the 2018 Twine Games Jam.\n\nMade with Twine and Unity using Cradle. SFX courtesy of freesound.org. \n\n--\n\n[[RESTART]]",
+                "Name": "THE END",
+                "Pid": "18",
+                "Tags": ""
+            },
+            {
+                "Body": "Double-click this passage to edit it.",
+                "Name": "Twine",
+                "Pid": "19",
+                "Tags": ""
+            },
+            {
+                "Body": "Double-click this passage to edit it.",
+                "Name": "Unity",
+                "Pid": "20",
+                "Tags": ""
+            },
+            {
+                "Body": "Double-click this passage to edit it.",
+                "Name": "RESTART",
+                "Pid": "21",
+                "Tags": ""
+            },
+            {
+                "Body": "You brace yourself at the end of the cliff and jump, spreading your wings wide--\n\nYou are caught by the Aegean winds, soaring, the lightness filling your soul in a way only true freedom can. Already the maze is far behind you, receding from view and from your thoughts.\n\nYou let the light of the sun wash over you, revelling in its warmth. \n\n\n[[THE END]]",
+                "Name": " final2",
+                "Pid": "22",
+                "Tags": ""
+            },
+            {
+                "Body": "As you press the button, the box's lid falls away. Inside the box you see a feather. You tuck the feather into your pouch. \n\n[[Onwards]]",
+                "Name": "answer1",
+                "Pid": "23",
+                "Tags": ""
+            },
+            {
+                "Body": "As you press the button, the box's lid falls away. Inside the box you see a feather. You tuck the feather into your pouch. \n\nYou have everything you need. Time to go [[home]]. ",
+                "Name": "answer2",
+                "Pid": "24",
+                "Tags": ""
+            },
+            {
+                "Body": "And yet here you stand, with one last choice to make. \n\n[[Take the wings and fly away.]]\n[[Give the wings to Icarus and let him fly away.]]",
+                "Name": "choice",
+                "Pid": "25",
+                "Tags": ""
+            }
+        ],
+        "startPid": "1"
+    }
+}
